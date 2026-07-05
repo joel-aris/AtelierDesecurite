@@ -18,7 +18,7 @@ php artisan serve
 
 Pour activer la vérification des fuites par email, renseigner `HIBP_API_KEY` dans `backend/.env`.
 
-Si Docker n'a pas accès au socket sur ta machine, démarre le cluster PostgreSQL local:
+Si Docker n'a pas accès au socket sur ta machine, démarre le cluster PostgreSQL local :
 
 ```bash
 sudo pg_ctlcluster 18 main start
