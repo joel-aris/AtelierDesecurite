@@ -40,6 +40,6 @@ npm run dev
 Comptes de test:
 
 - admin: `admin@secure-office.test` / `password`
-- user: `user@secure-office.test` / `password`
+- 
 
 Le site reste utilisable sans connexion. Les actions invitées sont associées à un identifiant local envoyé via `X-Guest-Id`; après connexion, l’historique est conservé côté compte.
